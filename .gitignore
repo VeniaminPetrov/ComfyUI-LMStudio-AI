@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / easily readable class
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Python distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+mouse_logs/
+src/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Jupyter Notebook
+*.ipynb
+
+# Spyder: Spyder project settings file
+.spyderproject
+.spyproject
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Local logs and data (IMPORTANT!)
+*.log
+*.jsonl
+*.txt
+*.tmp
+*.swp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# ComfyUI specific
+comfyui_temp/
+outputs/
+input/
+temp/
