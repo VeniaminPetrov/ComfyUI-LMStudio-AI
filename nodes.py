@@ -48,4 +48,4 @@ class LMStudioAI_Node:
             return (str(e), "Error")
 
 NODE_CLASS_MAPPINGS = {"LMStudioAI_Node": LMStudioAI_Node}
-NODE_DISPLAY_NAME_MAPPINGS = {"LMStudioAI_Node": "🤖 LMStudio AI (Pro)"}
+NODE_DISPLAY_NAME_MAPPINGS = {"LMStudioAI_Node": "🤖 LMStudio AI (Pro) (Ven_ic)"}
